@@ -8,10 +8,10 @@ Address any question to Balraj Singh balraj@mcmaster.ca
 
 ## Change History
 
-####2020-11
-New Versions
+#### 2020-11
+Version 1.0
 
-####2015-03-10
+#### 2015-03
 Program added 
 
 ## Disclaimer
